@@ -2,7 +2,7 @@
 Checks if given number is a prime number
 
 
-
+{
 #include <iostream>
 #include <cmath>
 
@@ -42,4 +42,4 @@ int main() {
     return 0;
 }
 
-
+}
